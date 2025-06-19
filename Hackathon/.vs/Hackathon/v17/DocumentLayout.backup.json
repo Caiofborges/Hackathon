@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Hackathon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\tools\\colaboradortools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\tools\\colaboradortools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\dtos\\colaboradorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\dtos\\colaboradorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\dtos\\colaboradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\dtos\\colaboradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\clients\\colaboradorapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\clients\\colaboradorapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\interfaces\\icolaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\interfaces\\icolaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\entities\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\entities\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\dtos\\request\\colaboradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\dtos\\request\\colaboradorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81B72D2F-84E1-4141-A13E-C8B02418D6AF}|HackathonAPI\\HackathonAPI.csproj|solutionrelative:hackathonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|c:\\users\\user\\source\\repos\\hackathon\\hackathonmcrserver\\hackathonmcrserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D2DBEF1-5B70-49C8-BBF5-47819B433E75}|HackathonMCRServer\\HackathonMCRServer.csproj|solutionrelative:hackathonmcrserver\\hackathonmcrserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250619135104_ProjetoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs",
+              "RelativeToolTip": "HackathonAPI\\Migrations\\20250619135104_ProjetoInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:51:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Entities\\Colaborador.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Entities\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Entities\\Colaborador.cs",
+              "RelativeToolTip": "HackathonAPI\\Entities\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:19:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IColaboradorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Interfaces\\IColaboradorService.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Interfaces\\IColaboradorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Interfaces\\IColaboradorService.cs",
+              "RelativeToolTip": "HackathonAPI\\Interfaces\\IColaboradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:15:37.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaboradorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Services\\ColaboradorService.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Services\\ColaboradorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Services\\ColaboradorService.cs",
+              "RelativeToolTip": "HackathonAPI\\Services\\ColaboradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:10:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColaboradorApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Clients\\ColaboradorApiClient.cs",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\Clients\\ColaboradorApiClient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Clients\\ColaboradorApiClient.cs",
+              "RelativeToolTip": "HackathonMCRServer\\Clients\\ColaboradorApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:46:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\DTOs\\ColaboradorRequest.cs",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\DTOs\\ColaboradorRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\DTOs\\ColaboradorRequest.cs",
+              "RelativeToolTip": "HackathonMCRServer\\DTOs\\ColaboradorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:46:32.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColaboradorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\DTOs\\ColaboradorResponse.cs",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\DTOs\\ColaboradorResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\DTOs\\ColaboradorResponse.cs",
+              "RelativeToolTip": "HackathonMCRServer\\DTOs\\ColaboradorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:46:33.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaboradorTools.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Tools\\ColaboradorTools.cs",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\Tools\\ColaboradorTools.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Tools\\ColaboradorTools.cs",
+              "RelativeToolTip": "HackathonMCRServer\\Tools\\ColaboradorTools.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAWwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:46:36.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Entities\\Shared\\Entity.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Entities\\Shared\\Entity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Entities\\Shared\\Entity.cs",
+              "RelativeToolTip": "HackathonAPI\\Entities\\Shared\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:15:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaboradorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\DTOs\\Request\\ColaboradorRequest.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\DTOs\\Request\\ColaboradorRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\DTOs\\Request\\ColaboradorRequest.cs",
+              "RelativeToolTip": "HackathonAPI\\DTOs\\Request\\ColaboradorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:24:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "HackathonAPI\\Controllers\\ColaboradorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:09:14.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALIUAAAAAAAAAAAcwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-19T13:46:02.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Data\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Data\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Data\\Context\\DataContext.cs",
+              "RelativeToolTip": "HackathonAPI\\Data\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:17:20.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HackathonAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\appsettings.json",
+              "RelativeToolTip": "HackathonAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T13:25:59.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250619134643_ProjetoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs",
+              "RelativeDocumentMoniker": "HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs",
+              "RelativeToolTip": "HackathonAPI\\Migrations\\20250619134643_ProjetoInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:46:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\appsettings.json",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\appsettings.json",
+              "RelativeToolTip": "HackathonMCRServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T02:56:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HackathonMCRServer.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\HackathonMCRServer.csproj",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\HackathonMCRServer.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\HackathonMCRServer.csproj",
+              "RelativeToolTip": "HackathonMCRServer\\HackathonMCRServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T02:55:52.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Program.cs",
+              "RelativeDocumentMoniker": "HackathonMCRServer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Hackathon\\HackathonMCRServer\\Program.cs",
+              "RelativeToolTip": "HackathonMCRServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:54:52.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
