@@ -14,7 +14,7 @@ namespace HackathonAPI.Services
             _context = context;
         }
 
-        public List<Colaborador> ObterColaboradors(string nome)
+        public List<Colaborador> ObterColaboradores(string nome)
         {
             return _context.Colaboradores       
                 .Where(p => string.IsNullOrWhiteSpace(nome) || p.Nome.Contains(nome))

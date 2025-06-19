@@ -14,5 +14,8 @@ namespace HackathonAPI.Data.Context
         }
         
         public DbSet<Colaborador> Colaboradores { get; set; }
+        public DbSet<Avaliacao> Avaliacoes { get; set; }
+        public DbSet<Ocorrencia> Ocorrencias { get; set; }
+        public DbSet<Movimentacao> Movimentacoes { get; set; }
     }
 }

@@ -13,6 +13,9 @@ builder.Services.AddSwaggerGen();
 string connectionString = builder.Configuration.GetConnectionString("default")!;
 builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(connectionString));
 builder.Services.AddScoped<IColaboradorService, ColaboradorService>();
+builder.Services.AddScoped<IAvaliacaoService, AvaliacaoService>();
+builder.Services.AddScoped<IMovimentacaoService, MovimentacaoService>();
+builder.Services.AddScoped<IOcorrenciaService, OcorrenciaService>();
 
 var app = builder.Build();
 

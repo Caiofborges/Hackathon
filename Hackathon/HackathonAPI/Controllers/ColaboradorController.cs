@@ -17,7 +17,7 @@ namespace HackathonAPI.Controllers
         [HttpGet]
         public ActionResult<List<Colaborador>> ObterColaboradores(string? nome)
         {
-            var colaboradores = _colaboradorService.ObterColaboradors(nome);
+            var colaboradores = _colaboradorService.ObterColaboradores(nome);
             if (colaboradores == null || colaboradores.Count == 0)
                 return NoContent();
 
