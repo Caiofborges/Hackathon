@@ -1,7 +1,8 @@
-using HackathonMCRServer;
+﻿using HackathonMCRServer;
 using HackathonMCRServer.Clients;
 using HackathonMCRServer.Tools;
 using ModelContextProtocol.Protocol;
+using ModelContextProtocol.Server; // ⬅️ Adicione isso
 
 var builder = Host.CreateApplicationBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Logging.AddConsole(options =>
 });
 
 var serverInfo = new Implementation { Name = "DotnetMCPServer", Version = "1.0.0" };
+
 builder.Services
     .AddMcpServer(mcp =>
     {
@@ -19,6 +21,7 @@ builder.Services
     })
     .WithStdioServerTransport()
     .WithToolsFromAssembly(typeof(ColaboradorTools).Assembly);
+
 
 builder.Services.AddHttpClient<ColaboradorApiClient>(client =>
 {

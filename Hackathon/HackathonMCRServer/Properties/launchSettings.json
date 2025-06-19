@@ -1,28 +1,15 @@
 ﻿{
-  "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
     "HackathonMCRServer": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development"
-      }
+        "OPENAI_API_TYPE": "azure",
+        "OPENAI_API_KEY": "",
+        "OPENAI_API_BASE": "https://openai-time2.openai.azure.com/",
+        "OPENAI_API_VERSION": "2024-05-01-preview",
+        "OPENAI_DEPLOYMENT_ID": "gpt-4o"
+      },
+      "applicationUrl": "http://localhost:5000"
     }
   }
 }
-
-//{
-//  "profiles": {
-//    "HackathonMCRServer": {
-//      "commandName": "Project",
-//      "environmentVariables": {
-//        "OPENAI_API_TYPE": "azure",
-//        "OPENAI_API_KEY": "sua-chave-aqui",
-//        "OPENAI_API_BASE": "https://seuservico.openai.azure.com/",
-//        "OPENAI_API_VERSION": "2023-05-15",
-//        "OPENAI_DEPLOYMENT_ID": "nome-do-seu-deployment"
-//      },
-//      "applicationUrl": "http://localhost:5000"
-//    }
-//  }
-//}
